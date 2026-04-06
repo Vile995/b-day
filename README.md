@@ -7,7 +7,7 @@ A fun, interactive birthday page where the "Yes" button grows bigger every time 
 
 ---
 
-## Want to Use This to Impress Your GF/Wife?
+## Want to Use This to Impress someone?
 
 You've got three options — pick whatever works for you.
 
