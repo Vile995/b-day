@@ -1,12 +1,12 @@
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/hTuJmtxAV5IAAAAj/cat-in-shock-surprises.gif",  // 1 confused
+    "https://media1.tenor.com/m/cmR2VwcQclMAAAAC/screaming-cat.gif",             // 2 pleading
+    "https://media.tenor.com/X0AU4rFwjYsAAAAj/mochi-cat-mad-cat.gif",             // 3 sad
+    "https://media.tenor.com/ikTQ-pi_GyMAAAAi/cat-cry-kitten-cry.gif",       // 4 sadder
+    "https://media1.tenor.com/m/0yJbcfwQyu8AAAAd/cry-crying.gif",             // 5 devastated
+    "https://media1.tenor.com/m/14b3oQe1uw0AAAAd/cat-crying-cat.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/T8Je2FxuXTAAAAAd/ok-cat-thumbs-up-cat.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -25,7 +25,7 @@ const yesTeasePokes = [
     "try saying no first... I bet you want to know what happens 😏",
     "go on, hit no... just once 👀",
     "you're missing out 😈",
-    "click no, I dare you 😏"
+    "click no, I dare you (˶˃⤙˂˶)"
 ]
 
 let yesTeasedCount = 0
