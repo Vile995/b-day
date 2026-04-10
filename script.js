@@ -17,7 +17,7 @@ const noMessages = [
     "I promise the gift is worth it 🎁",
     "Wrong answer 😏",
     "Maybe another girl wouldn’t try this hard for you… just saying 😏",
-    "Last chance… pretty please? 😭",
+    "Catch it… I have something sweet to say 💕",
     "You can't catch me anyway 😜"
 ]
 
