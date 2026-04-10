@@ -9,10 +9,8 @@
     padding: 12px 28px;
     cursor: pointer;
 
-    /* ❌ bỏ left/top để không chạy */
     /* transition: background 0.2s, left 0.25s ease, top 0.25s ease; */
 
-    /* ✅ chỉ giữ hover mượt */
     transition: transform 0.15s, background 0.2s;
 
     box-shadow: 0 4px 14px rgba(231, 76, 60, 0.4);
