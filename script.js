@@ -1,12 +1,12 @@
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media.tenor.com/hTuJmtxAV5IAAAAj/cat-in-shock-surprises.gif",  // 1 confused
+    "https://media1.tenor.com/m/eCuF-YgSx88AAAAC/game-sports.gif",  // 1 confused
     "https://media1.tenor.com/m/cmR2VwcQclMAAAAC/screaming-cat.gif",             // 2 pleading
-    "https://media.tenor.com/X0AU4rFwjYsAAAAj/mochi-cat-mad-cat.gif",             // 3 sad
-    "https://media.tenor.com/ikTQ-pi_GyMAAAAi/cat-cry-kitten-cry.gif",       // 4 sadder
+    "https://media1.tenor.com/m/e7EQ75FO34oAAAAd/aston-martin-racing-point.gif",             // 3 sad
+    "https://media1.tenor.com/m/UEX8IMZdaUEAAAAC/unathletic-kid.gif",       // 4 sadder
     "https://media1.tenor.com/m/0yJbcfwQyu8AAAAd/cry-crying.gif",             // 5 devastated
     "https://media1.tenor.com/m/14b3oQe1uw0AAAAd/cat-crying-cat.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/T8Je2FxuXTAAAAAd/ok-cat-thumbs-up-cat.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/JtTc0G3FPtAAAAAC/vettel-f1.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
