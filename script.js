@@ -6,7 +6,7 @@ const gifStages = [
     "https://media1.tenor.com/m/UEX8IMZdaUEAAAAC/unathletic-kid.gif",       // 4 sadder
     "https://media1.tenor.com/m/0yJbcfwQyu8AAAAd/cry-crying.gif",             // 5 devastated
     "https://media1.tenor.com/m/14b3oQe1uw0AAAAd/cat-crying-cat.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/JtTc0G3FPtAAAAAC/vettel-f1.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/m-_PGA6ok7wAAAAd/audi-sauber.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
